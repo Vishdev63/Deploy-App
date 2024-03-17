@@ -24,6 +24,3 @@ Follow these instructions to get started with deploying applications on your loc
 - Virtualization or Containerization Platform: Docker, Kubernetes, VirtualBox, VMware, etc.
 - Development Tools: Git, IDEs, text editors, etc.
 
-### Installation
-
-1. Clone the repository to your local machine:
