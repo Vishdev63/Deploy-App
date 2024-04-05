@@ -7,7 +7,7 @@ This project aims to provide a platform for deploying applications on a local cl
 
 # Deploying Apps Locally on Cloud and Providing Intra-Network Services
 
-To deploy apps on a cloud locally and provide intra-network services like cloud storage or any other utility software, you would typically use technologies such as virtualization, containerization, and orchestration tools. Here's a stepwise approach to implementing such a project:
+To deploy apps on a cloud locally and provide intra-network services like cloud storage or any other utility software, you would typically use technologies such as virtualization, containerization, and orchestration tools. Here's a stepwise approach to implementing this project:
 
 ## Define Requirements:
 
